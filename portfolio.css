@@ -1,0 +1,45 @@
+#nailsbody h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5em;
+}
+
+#nailsbody p {
+
+  font-size: 1.2em;
+}
+
+#todaybody h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5em;
+}
+
+#todaybody p {
+
+  font-size: 1.2em;
+}
+
+#restbody h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2.5em;
+}
+
+#restbody p {
+
+  font-size: 1.2em;
+}
+
+#nailsgif {
+	text-align: center;
+	padding-top: 8%;
+}
+
+#tiagif {
+	text-align: center;
+	padding-top: 8%;
+}
+
+#restaurantgif {
+	text-align: center;
+	padding-top: 8%;
+}
+
