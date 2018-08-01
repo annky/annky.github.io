@@ -4,7 +4,7 @@
 }
 
 #mainimage {
-  padding-right: 10%
+  text-align: center;
 }
 
 #content {
@@ -26,4 +26,25 @@
 
 hr {
  /*make this blue and shorter*/
+}
+
+/*Portfolio Nav Page*/
+
+#artimage {
+  text-align: center;
+  margin: 3%;
+}
+
+#webmobileimage {
+  text-align: center;
+  margin: 3%;
+}
+
+#gameimage {
+  text-align: center;
+  margin: 3%;
+}
+
+#portfoliotitle {
+  font-family: 'Pacifico', cursive;
 }
